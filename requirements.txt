@@ -1,0 +1,9 @@
+diffusers==0.32.2
+jupyter
+lpips==0.1.4
+matplotlib
+scikit-image
+transformers
+torch
+torchvision
+torchaudio
