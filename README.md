@@ -1,7 +1,7 @@
 # SC4062 GEN AI Visual Content Generation Group Project
 
 ## **Repository Directories**
-- ```data```: Folder containing the 
+- ```data```: Folder containing the zip files of 500 data points used during fine-tuning process
 - ```train_lora.py:``` Python File used for fine-tuning Stable Diffusion Model
 - ```eval.py:``` Python File used to evaluate the Fine-tuned Stable Diffusion Model
 - ```requirements.txt:``` Containing all the dependencies required to run the code
